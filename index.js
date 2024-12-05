@@ -1,11 +1,6 @@
 import * as dotenv from "dotenv";
 dotenv.config();
-
-import {
-	Client,
-	TwitterStrategy,
-	BlueskyStrategy,
-} from "@humanwhocodes/crosspost";
+import { Client, TwitterStrategy, BlueskyStrategy } from "@humanwhocodes/crosspost";
 
 // Note: Use an app password, not your login password!
 const bluesky = new BlueskyStrategy({
