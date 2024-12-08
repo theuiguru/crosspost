@@ -1,2 +1,2 @@
 # crosspost
-A JavaScript utility for posting across multiple social networks at once based on Nicholas C. Zakas' (@humanwhocodes) [Github Repo](https://github.com/humanwhocodes/crosspost) and [npm package](https://www.npmjs.com/package/@humanwhocodes/crosspost)
+A JavaScript utility for posting across multiple social networks (Twitter/X and Bluesky) at once based on Nicholas C. Zakas' (@humanwhocodes) [Github Repo](https://github.com/humanwhocodes/crosspost) and [npm package](https://www.npmjs.com/package/@humanwhocodes/crosspost)
